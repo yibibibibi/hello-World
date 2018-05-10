@@ -1,2 +1,4 @@
 # hello-World
-just another repository
+hi humans
+
+say somrthing i given up you
