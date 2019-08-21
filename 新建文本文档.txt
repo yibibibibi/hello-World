@@ -1,0 +1,6 @@
+BcCallGetSessionBw, 传个数
+BcCallPmcAckCacProc
+
+SdbGetWildcardImpuByExtImpu 传入参
+
+sctp_api_connection_pending， 魔鬼数字
